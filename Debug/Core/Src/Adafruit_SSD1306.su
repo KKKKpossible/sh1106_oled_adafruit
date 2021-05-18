@@ -1,0 +1,23 @@
+Adafruit_SSD1306.cpp:129:6:virtual void Adafruit_SSD1306::drawPixel(int16_t, int16_t, uint16_t)	32	static
+Adafruit_SSD1306.cpp:161:1:Adafruit_SSD1306::Adafruit_SSD1306(int8_t)	16	static
+Adafruit_SSD1306.cpp:168:6:void Adafruit_SSD1306::begin(uint8_t, uint8_t, bool)	16	static
+Adafruit_SSD1306.cpp:239:6:void Adafruit_SSD1306::sh1106_begin(uint8_t, uint8_t, bool)	16	static
+Adafruit_SSD1306.cpp:260:6:void Adafruit_SSD1306::invertDisplay(uint8_t)	16	static
+Adafruit_SSD1306.cpp:268:6:void Adafruit_SSD1306::ssd1306_command(uint8_t)	24	static
+Adafruit_SSD1306.cpp:278:6:void Adafruit_SSD1306::ssd1306_data(uint16_t)	32	static
+Adafruit_SSD1306.cpp:293:6:void Adafruit_SSD1306::sh1106_data(uint16_t)	32	static
+Adafruit_SSD1306.cpp:323:6:void Adafruit_SSD1306::startscrollright(uint8_t, uint8_t)	16	static
+Adafruit_SSD1306.cpp:338:6:void Adafruit_SSD1306::startscrollleft(uint8_t, uint8_t)	16	static
+Adafruit_SSD1306.cpp:353:6:void Adafruit_SSD1306::startscrolldiagright(uint8_t, uint8_t)	16	static
+Adafruit_SSD1306.cpp:370:6:void Adafruit_SSD1306::startscrolldiagleft(uint8_t, uint8_t)	16	static
+Adafruit_SSD1306.cpp:383:6:void Adafruit_SSD1306::stopscroll()	16	static
+Adafruit_SSD1306.cpp:390:6:void Adafruit_SSD1306::dim(bool)	24	static
+Adafruit_SSD1306.cpp:408:6:void Adafruit_SSD1306::display()	24	static
+Adafruit_SSD1306.cpp:443:6:void Adafruit_SSD1306::clear(uint8_t)	32	static
+Adafruit_SSD1306.cpp:462:6:void Adafruit_SSD1306::sh1106_display()	24	static
+Adafruit_SSD1306.cpp:474:6:void Adafruit_SSD1306::clearDisplay()	16	static
+Adafruit_SSD1306.cpp:479:6:void Adafruit_SSD1306::clearDisplay_sh1106()	16	static
+Adafruit_SSD1306.cpp:484:6:virtual void Adafruit_SSD1306::drawFastHLine(int16_t, int16_t, int16_t, uint16_t)	72	static
+Adafruit_SSD1306.cpp:553:6:virtual void Adafruit_SSD1306::drawFastVLine(int16_t, int16_t, int16_t, uint16_t)	72	static
+Adafruit_SSD1306.cpp:701:6:void Adafruit_SSD1306::memset(uint8_t*, uint16_t, uint16_t)	32	static
+Adafruit_SSD1306.cpp:710:6:void Adafruit_SSD1306::printf(const char*)	24	static
